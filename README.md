@@ -1,5 +1,5 @@
 # CyberNewt-Sancturary
-Ever thought of turning a creality ender 3 to keep newts?
+Ever thought of turning a Creality Ender 3 to keep newts?
 A high tech vivarium to keep small terrestrial amphibians; requiring inexpensive hardware and leftovers from an old 3D printer. 
 Designed and assembled for a recently rescued newt (Morpheus) in under 48 hours. 
 
@@ -29,7 +29,7 @@ Components :
   - USB Type A to B (2.0)
   - USB Type A to mini B (2.0)
   - Small flathead screwdriver
-  - Soldering iron
+  - Soldering iron and solder 
   - 3mm shrink tubing
   - 3D printer and filament 
   - Lasercutter (optional)
