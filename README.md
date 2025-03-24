@@ -4,14 +4,14 @@ A high tech vivarium to keep small terrestrial amphibians; requiring inexpensive
 Designed and assembled for a recently rescued newt (Morpheus) in under 48 hours. 
 
 Components : 
-  - 1200 x 600 mm acryic sheet (optional)
+  - 1200 x 600 mm acrylic sheet (optional)
   - DHT11 sensor
   - Capacitative soil moisture sensor 
   - 12V 3-5A meanwell PSU
   - 12864 LCD 
   - 4x 10mm 12V UV LEDs
   - 2x 10mm 5v Clear LEDs
-  - Abundance of jumber cables 
+  - Abundance of jumper cables 
   - Small Breadboard 
   - Arduino UNO 
   - Creality 3D V1.1.4
