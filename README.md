@@ -10,18 +10,18 @@ Components :
   - DHT11 sensor
   - Capacitative soil moisture sensor 
   - 12V 3-5A meanwell PSU
-  - 12864 LCD 
+  - 12864 LCD (Ender 3)
   - 4x 10mm 12V UV LEDs
   - 2x 10mm 5v Clear LEDs
   - Abundance of jumper cables 
   - Small Breadboard 
   - Arduino UNO 
-  - Creality 3D V1.1.4
-  - 2x push button limit switch 
+  - Creality 3D V1.1.4 (Ender 3)
+  - 2x push button limit switch (Ender 3)
   - 1x switch 
-  - 4x JST XH
-  - 1x c2g 88512 cable 
-  - 1x c2g 88512 socket 
+  - 4x JST XH (Ender 3)
+  - 1x c2g 88512 cable (Ender 3)
+  - 1x c2g 88512 socket (Ender 3)
   - 1x A5 2mm foam sheet 
  
 
