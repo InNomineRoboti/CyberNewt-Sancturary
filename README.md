@@ -1,5 +1,5 @@
 # CyberNewt-Sancturary
-Ever thought of upcycling a Creality Ender 3 to keep newts?
+How to upcycle a Creality Ender 3 to keep newts.
 A high tech vivarium to keep small terrestrial amphibians; requiring inexpensive hardware and leftovers from an old 3D printer. 
 Designed and assembled for a recently rescued newt (Morpheus) in under 48 hours. 
 
